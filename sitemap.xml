@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://kidfolk.github.com/blog/2013/03/26/hello-world/</loc>
+        <loc>http://kidfolk.me/blog/2013/03/26/hello-world/</loc>
         <lastmod>2013-03-26T15:12:10+08:00</lastmod>
     </url>
     <url>
-        <loc>http://kidfolk.github.com/blog/archives/</loc>
+        <loc>http://kidfolk.me/blog/archives/</loc>
         <lastmod>2013-03-26T15:12:10+08:00</lastmod>
     </url>
     <url>
-        <loc>http://kidfolk.github.com/</loc>
+        <loc>http://kidfolk.me/</loc>
         <lastmod>2013-03-26T15:12:10+08:00</lastmod>
     </url>
     <url>
-        <loc>http://kidfolk.github.com/robots.txt</loc>
+        <loc>http://kidfolk.me/robots.txt</loc>
         <lastmod>2013-03-26T14:49:17+08:00</lastmod>
     </url>
 </urlset>

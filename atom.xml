@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[kidfolk]]></title>
-  <link href="http://kidfolk.github.com/atom.xml" rel="self"/>
-  <link href="http://kidfolk.github.com/"/>
-  <updated>2013-03-26T15:12:19+08:00</updated>
-  <id>http://kidfolk.github.com/</id>
+  <link href="http://kidfolk.me/atom.xml" rel="self"/>
+  <link href="http://kidfolk.me/"/>
+  <updated>2013-03-26T15:14:52+08:00</updated>
+  <id>http://kidfolk.me/</id>
   <author>
     <name><![CDATA[Nicky Xu(kidfolk)]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://kidfolk.github.com/blog/2013/03/26/hello-world/"/>
+    <link href="http://kidfolk.me/blog/2013/03/26/hello-world/"/>
     <updated>2013-03-26T15:11:00+08:00</updated>
-    <id>http://kidfolk.github.com/blog/2013/03/26/hello-world</id>
+    <id>http://kidfolk.me/blog/2013/03/26/hello-world</id>
     <content type="html"><![CDATA[<p>Hello octopress!</p>
 ]]></content>
   </entry>

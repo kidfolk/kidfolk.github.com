@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://kidfolk.github.com/sitemap.xml 
+Sitemap: http://kidfolk.me/sitemap.xml 
