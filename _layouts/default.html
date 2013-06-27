@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css" media="screen">
+  <link rel="stylesheet" type="text/css" href="/css/main.css">
+</head>
+<body>
+  <script src="http://code.jquery.com/jquery.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <div class="container">
+
+    <header>
+      <h1><a href="/">{{ site.name }}</a></h1>
+      <h3>{{ site.description}}</h3>
+    </header>
+    
+    {{ content }}
+
+    <footer>
+      <p>
+        Copyright &copy; 2013 - kidfolk -
+        <span class="credit">Powered by <a href="http://jekyllrb.com/">jekyll</a></span>
+      </p>
+    </footer>
+
+  </div>
+</body>
+</html>
