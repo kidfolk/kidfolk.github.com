@@ -1,4 +1,4 @@
 name: kidfolk's blog
-pygments: true
+highlighter: pygments
 timezone: Asia/Shanghai
 description: 分享 发现 创造
